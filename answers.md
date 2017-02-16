@@ -5,4 +5,6 @@ Week 01 Quiz
 3. b
 4. a
 5. b
+6. a
+
 
