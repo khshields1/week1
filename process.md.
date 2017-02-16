@@ -1,0 +1,6 @@
+3 step process to manage files with git:
+
+1. Modify the file - use nano to open the text editor and input information
+2. Stage the file - notify git that you intend to commit a version of the file by typing git add .
+3. Commit the file - tell git to store the file in the staging area to a git repository by typing git commit -m 'input a description of the changes made'
+
